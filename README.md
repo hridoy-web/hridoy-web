@@ -91,18 +91,21 @@ E-commerce style product system with dynamic cart functionality.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=hridoy-web&theme=dark&hide_border=true&show_icons=true" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=hridoy-web&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=hridoy-web&theme=dark&hide_border=true&show_icons=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=hridoy-web&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hridoy-web&theme=dark&hide_border=true&layout=compact" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hridoy-web&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=hridoy-web&theme=github-dark)
+## 📊 GitHub Contributions
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
