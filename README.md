@@ -102,10 +102,7 @@ E-commerce style product system with dynamic cart functionality.
 ---
 
 ## 📊 GitHub Contributions
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hridoy-web&theme=github-dark)
 
 ---
 
