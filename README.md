@@ -14,7 +14,7 @@ I am a web developer from Bangladesh focused on building modern, scalable, and u
 
 - 🌱 Currently learning **MongoDB, Express.js, Node.js**
 - 🔐 Exploring **BetterAuth** for secure and modern authentication systems
-- 💻 Building a **Gadget Review Platform** using Next.js 15 and MongoDB
+- 💻 Building a **English Learning Platform** using Next.js, Tailwind, BetterAuth And Node.js with Express, MongoDB
 - 🎓 Student: **BBA Honors (2nd Year)**
 - 🎯 Goal: Become a software engineer and build production-level scalable web applications
 
