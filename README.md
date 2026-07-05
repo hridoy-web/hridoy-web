@@ -91,18 +91,19 @@ E-commerce style product system with dynamic cart functionality.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=hridoy-web&theme=dark&hide_border=true&show_icons=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=hridoy-web&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=hridoy-web&theme=dark&hide_border=true&show_icons=true&cache_seconds=1800" />
+  
+  <img height="170" src="https://streak-stats.demolab.com/?user=hridoy-web&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hridoy-web&theme=dark&hide_border=true&layout=compact" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hridoy-web&theme=dark&hide_border=true&layout=compact&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 📊 GitHub Contributions
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hridoy-web&theme=github-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hridoy-web&theme=github-dark&custom_domain=github.com&timezone=Asia/Dhaka)
 
 ---
 
