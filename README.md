@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&color=00C6FF&width=600&lines=MERN+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&color=00C6FF&width=600&lines=MERN+Stack+Developer;Building+Modern+Web+Applications;Creating+Scalable+MERN+Applications" />
 </p>
 
 ---
 
 ### 🌐 ABOUT ME
 
-I am a passionate web developer from Bangladesh focused on building modern, scalable, and user-friendly web applications using the MERN stack. I enjoy transforming complex ideas into real-world digital products with clean UI and efficient business logic, always striving to write optimized and maintainable code.
+Passionate MERN Stack Developer from Bangladesh with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world products through clean code, intuitive UI, and efficient backend architecture. I'm continuously learning new technologies and improving my problem-solving skills.
 
 ---
 
@@ -29,7 +29,7 @@ I am a passionate web developer from Bangladesh focused on building modern, scal
 *   🌍 I'm working on an English learning website named **Fluento Speak** to help Bangladeshi people learn English.
 *   💻 Learning **TypeScript** to write cleaner, type-safe, and professional code.
 *   🔑 Setting up **BetterAuth** solutions to build secure, modern authentication systems.
-*   ⚙️ Strengthening my foundational skills in advanced backend development with Node.js and MongoDB.
+*   ⚙️ Improving my backend development skills with Node.js, Express.js, and MongoDB.
 *   📝 I regularly write articles on <a href="https://www.linkedin.com/in/hridoy-chowdhury-webdev" target="_blank">LinkedIn</a>.
 *   📫 Feel free to reach out to me via <a href="mailto:chowdhuryhridoy902@gmail.com">Email</a>.
 
@@ -45,13 +45,13 @@ I am a passionate web developer from Bangladesh focused on building modern, scal
 <a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
 <a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/daisyui-5A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white" /></a>
 <a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
-<a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/next-black.svg?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+<a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
 
 #### ⚙️ Backend & Authentication
 <a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" /></a>
 <a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></a>
 <a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/BetterAuth-000000.svg?style=for-the-badge&logo=1password&logoColor=00C6FF" /></a>
+<a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge" /></a>
 
 #### 🧰 Tools & Deployment
 <a href="https://github.com/hridoy-web"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
@@ -67,11 +67,11 @@ I am a passionate web developer from Bangladesh focused on building modern, scal
 I'm open to internship opportunities, junior developer roles, and building real-world software applications. Let's talk!
 
 <p align="left">
-  <a href="https://linkedin.com/in/hridoy-chowdhury-webdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/hridoy-web" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hridoy-chowdhury-webdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/hridoyChyWebDev" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=hridoyinfinity" /></a>
   <a href="mailto:chowdhuryhridoy902@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=hridoyinfinity" />
 </p>
 
 ---
