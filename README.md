@@ -56,38 +56,6 @@ I am a web developer from Bangladesh focused on building modern, scalable, and u
 
 ---
 
-## 🚀 Featured Projects
-
-### 📚 BookFlow - Online Book Borrowing Platform
-Modern library system with secure authentication and smart book management.
-
-- 🛠 Tech: Next.js, MongoDB, BetterAuth, Tailwind CSS, DaisyUI  
-- ✨ Features: Google login, category filtering, search, private routes, profile system  
-- 🔗 Live: https://book-flow-seven.vercel.app/  
-- 💻 Code: https://github.com/hridoy-web/BookFlow  
-
----
-
-### 👥 KeenKeeper — Friendship Management System
-Track friendships, interactions, and communication analytics.
-
-- 🛠 Tech: React (Vite), React Router, Tailwind CSS, DaisyUI  
-- 📊 Features: interaction tracking, timeline system, analytics dashboard  
-- 🔗 Live: https://keenkeeper-connect-friends.netlify.app/  
-- 💻 Code: https://github.com/hridoy-web/KeenKeeper  
-
----
-
-### 🛒 DigiTools - AI Product Web App
-E-commerce style product system with dynamic cart functionality.
-
-- 🛠 Tech: React, Tailwind CSS, DaisyUI, React Toastify  
-- ⚡ Features: dynamic cart, live updates, checkout system, responsive UI  
-- 🔗 Live: https://hridoy-web.github.io/DigiTools-Project/  
-- 💻 Code: https://github.com/hridoy-web/DigiTools-Project  
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
