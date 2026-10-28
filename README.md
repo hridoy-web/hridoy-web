@@ -8,7 +8,7 @@
   🚀 Hi, I'm Hridoy Chowdhury
 </h1>
 <p align="center">
-  <strong>MERN Stack Developer</strong>
+  <strong>Full-Stack Developer</strong>
 </p>
 
 <p align="center">
@@ -85,11 +85,6 @@ I'm open to internship opportunities, junior developer roles, and building real-
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hridoy-web&theme=dark&hide_border=true&layout=compact&cache_seconds=1800" />
-</p>
-
-#### 📈 Contribution History
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridoy-web&theme=github-dark&custom_domain=github.com&timezone=Asia/Dhaka" width="100%" />
 </p>
 
 ---
